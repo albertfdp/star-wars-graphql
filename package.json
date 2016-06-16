@@ -24,7 +24,7 @@
   "homepage": "https://github.com/albertfdp/star-wars-graphql#readme",
   "dependencies": {
     "babel": "^6.5.2",
-    "babel-preset-es2015-node5": "^1.1.2",
+    "babel-preset-es2015-node5": "^1.2.0",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "express-graphql": "^0.4.9",
